@@ -6,7 +6,7 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-   USE_PASSAGE: 'push-plus',
+  // USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wxb07ce9921e6073b8',
 
@@ -21,7 +21,7 @@ const USER_CONFIG = {
      
       name: '小狗',
       
-      id: 'ac9f8893e63b45168aa20249d9d636cb',
+      id: 'o2w1k6ZltziJbkjAM1TZ87NkB_cA',
                                       
       useTemplateId: 'uaUbCo-gw-F9W-fpAqlUrL48albD6hI5SGBNyB7uTiQ',
         
