@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: '0001',
+    id: 'ac9f8893e63b45168aa20249d9d636cb',
     title: '松饼 早安',
     desc: `
       **{{date.DATA}}**
@@ -19,12 +19,16 @@ const TEMPLATE_CONFIG = [
       风向: {{wind_direction.DATA}}
       
       风级: {{wind_scale.DATA}}
+
+      湿度: {{shidu.DATA}}  
+      
+      空气质量指数:{{aqi.DATA}}
       
       {{comprehensive_horoscope.DATA}}
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是主人与小狗的第{{love_day.DATA}}天
       
       {{birthday_message.DATA}}
       
@@ -36,7 +40,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: '0002',
+    id: 'ac9f8893e63b45168aa20249d9d636cb',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
