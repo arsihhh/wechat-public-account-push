@@ -40,7 +40,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: 'ac9f8893e63b45168aa20249d9d636cb',
+    id: 'dEmk9iaXNDI26Iv55Hh82ZpvEXV41OaCJldE0j_QPAM',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
