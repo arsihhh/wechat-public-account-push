@@ -15,7 +15,7 @@ const USER_CONFIG = {
 
   PROVINCE: '广东',
   CITY: '东莞',
-  openUrl:'https://chat.52amz.com/chat'
+  openUrl:'https://chat.52amz.com/chat',
   USERS: [
     {
       // 想要发送的人的名字
