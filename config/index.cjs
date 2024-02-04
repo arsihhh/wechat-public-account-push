@@ -8,10 +8,10 @@
 const USER_CONFIG = {
    USE_PASSAGE: 'push-plus'
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxb07ce9921e6073b8',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'd1c2e2091f418279361fac2bbab86039',
+  APP_SECRET: '',
 
   PROVINCE: '广东',
   CITY: '东莞',
@@ -23,9 +23,9 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o2w1k6ZltziJbkjAM1TZ87NkB_cA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'lQ2NIj1i6EedyiePiAzBt7iFV_PPS89qKXWRq6YQ6Ns',
+      useTemplateId: 'ac9f8893e63b45168aa20249d9d636cb',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '10-11',
+      horoscopeDate: '04-11',
       horoscopeDateType: '今日',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
