@@ -15,13 +15,13 @@ const USER_CONFIG = {
 
   PROVINCE: '广东',
   CITY: '东莞',
-  openUrl:'https://chat.52amz.com/chat'
+ // openUrl:'https://chat.52amz.com/chat'
   USERS: [
     {
       // 想要发送的人的名字
       name: '小狗',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ac9f8893e63b45168aa20249d9d636cb',
+      id: 'o2w1k6ZltziJbkjAM1TZ87NkB_cA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'h89hofKJ2lx8iA1oZsczAfpJBOfpr7_X5nrx6nUdlxk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
