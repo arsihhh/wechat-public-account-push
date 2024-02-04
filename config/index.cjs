@@ -8,10 +8,10 @@
 const USER_CONFIG = {
    USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxb07ce9921e6073b8',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'd1c2e2091f418279361fac2bbab86039',
 
   PROVINCE: '广东',
   CITY: '东莞',
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       
       id: 'o2w1k6ZltziJbkjAM1TZ87NkB_cA',
                                       
-      useTemplateId: 'ac9f8893e63b45168aa20249d9d636cb',
+      useTemplateId: 'OHrKPa55id773-Bc-7R3reOZgY4HHDPhJocHWhLXGdA',
         
       horoscopeDate: '04-11',
       horoscopeDateType: '今日',
