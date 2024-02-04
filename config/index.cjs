@@ -18,21 +18,21 @@ const USER_CONFIG = {
   openUrl:'https://chat.52amz.com/chat',
   USERS: [
     {
-      // 想要发送的人的名字
+     
       name: '小狗',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      
       id: 'o2w1k6ZltziJbkjAM1TZ87NkB_cA',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
+                                      
       useTemplateId: 'ac9f8893e63b45168aa20249d9d636cb',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+        
       horoscopeDate: '04-11',
       horoscopeDateType: '今日',
       festivals: [
-        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+         
         {
           type: '*生日', name: '松饼', year: '1999', date: '04-11',
         },
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+         
         {
           type: '生日', name: '阿什', year: '2000', date: '10-31',
         },
