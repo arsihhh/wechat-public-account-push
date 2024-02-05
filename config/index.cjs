@@ -21,7 +21,7 @@ const USER_CONFIG = {
      
       name: '小狗',
       
-      id: 'o2w1k6ZltziJbkjAM1TZ87NkB_cA',
+      id: 'o2w1k6ZmIzPNv4cmPRrzyts1k-6Y',
                                       
       useTemplateId: 'ksO2XTvbOgVQmxKJoyZHumf-Rero7yB3mSl-7mi6HGo',
         
