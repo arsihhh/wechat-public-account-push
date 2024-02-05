@@ -23,7 +23,7 @@ const USER_CONFIG = {
       
       id: 'o2w1k6ZltziJbkjAM1TZ87NkB_cA',
                                       
-      useTemplateId: '	ksO2XTvbOgVQmxKJoyZHumf-Rero7yB3mSl-7mi6HGo',
+      useTemplateId: 'ksO2XTvbOgVQmxKJoyZHumf-Rero7yB3mSl-7mi6HGo',
         
       horoscopeDate: '04-11',
       horoscopeDateType: '今日',
